@@ -4,6 +4,7 @@
     "FirstName": "Kenan",
     "LastName": "Casey",
     "NickName": "DadJoke",
+    "Image": "casey_Kenan.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Ph.D.",
@@ -23,14 +24,14 @@
     "HashTag": "#codehard",
     "Resistances": "Children",
     "Weaknesses": "Grading homework, Comic Sans, Chapel",
-    "Creator": "Kenan Casey",
-    "Hyperlink": "https://shopgoodwill.com/home"
+    "Creator": "Kenan Casey"
   },
   {
     "id": 2,
     "FirstName": "Jared",
     "LastName": "Collins",
     "NickName": "Mathmagician",
+    "Image": "collins_jared.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Ph.D.",
@@ -50,14 +51,14 @@
     "HashTag": "#dobetter",
     "Resistances": "Student Tears",
     "Weaknesses": "None",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 3,
     "FirstName": "Ben",
     "LastName": "Clark",
     "NickName": "3D Print It",
+    "Image": "clark_ben.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -77,14 +78,14 @@
     "HashTag": "#goteam",
     "Resistances": "Advanced Calculus",
     "Weaknesses": "Dairy",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 4,
     "FirstName": "David",
     "LastName": "Powell",
     "NickName": "PowellPower",
+    "Image": "powell_david.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "M.Th.",
@@ -104,14 +105,14 @@
     "HashTag": "#jiminycricket",
     "Resistances": "Closed Note Tests",
     "Weaknesses": "Zoom",
-    "Creator": "Priscilla Harris",
-    "Hyperlink": ""
+    "Creator": "Priscilla Harris"
   },
   {
     "id": 5,
     "FirstName": "Nathan",
     "LastName": "Warf",
     "NickName": "Dwarf-Warf",
+    "Image": "warf_nathan.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -131,14 +132,14 @@
     "HashTag": "#PKAbad",
     "Resistances": "Stupidity",
     "Weaknesses": "Immune System",
-    "Creator": "Samuel Flowers",
-    "Hyperlink": ""
+    "Creator": "Samuel Flowers"
   },
   {
     "id": 6,
     "FirstName": "Amy",
     "LastName": "Sewell",
     "NickName": "Early Bird",
+    "Image": "sewell_amy.jpg",
     "Gender": "F",
     "Rank": "Instructor",
     "EducationLevel": "M.A.",
@@ -158,14 +159,14 @@
     "HashTag": "#growthmindset",
     "Resistances": "Fixed Mindset",
     "Weaknesses": "The Night, Typos",
-    "Creator": "Priscilla Harris",
-    "Hyperlink": ""
+    "Creator": "Priscilla Harris"
   },
   {
     "id": 7,
     "FirstName": "Charles",
     "LastName": "Tucker",
     "NickName": "Sharp Eye",
+    "Image": "tucker_charles.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -185,14 +186,14 @@
     "HashTag": "#tuckermerch",
     "Resistances": "Chegg",
     "Weaknesses": "Movies with Bad Physics",
-    "Creator": "Priscilla Harris",
-    "Hyperlink": ""
+    "Creator": "Priscilla Harris"
   },
   {
     "id": 8,
     "FirstName": "Doug",
     "LastName": "Burleson",
     "NickName": "Dougie B.",
+    "Image": "burleson_doug.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Ph.D.",
@@ -212,14 +213,14 @@
     "HashTag": "#Whatablessing",
     "Resistances": "Textual variance",
     "Weaknesses": "Bad Bible translations",
-    "Creator": "Wesley Baker",
-    "Hyperlink": ""
+    "Creator": "Wesley Baker"
   },
   {
     "id": 9,
     "FirstName": "Cliff",
     "LastName": "Thompson",
-    "NickName": "",
+    "NickName": "Dr. T",
+    "Image": "thomposon_cliff.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Ph.D.",
@@ -239,14 +240,14 @@
     "HashTag": "#cancelmakinmusic",
     "Resistances": "Hercules the dog",
     "Weaknesses": "Makin Music",
-    "Creator": "Luke Noles",
-    "Hyperlink": ""
+    "Creator": "Luke Noles"
   },
   {
     "id": 10,
     "FirstName": "Brandyn",
     "LastName": "Graves",
-    "NickName": "",
+    "NickName": "Lin Manuel",
+    "Image": "graves_brandyn.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "M.A.",
@@ -266,14 +267,14 @@
     "HashTag": "#letthedogsout",
     "Resistances": "Heights",
     "Weaknesses": "Crockpots",
-    "Creator": "Luke Noles",
-    "Hyperlink": ""
+    "Creator": "Luke Noles"
   },
   {
     "id": 11,
     "FirstName": "Lisa",
     "LastName": "Beene",
     "NickName": "",
+    "Image": "beene_lisa.jpg",
     "Gender": "F",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph. D.",
@@ -293,14 +294,14 @@
     "HashTag": "#elevatorbuddy",
     "Resistances": "Mean People",
     "Weaknesses": "Stairs",
-    "Creator": "Luke Noles",
-    "Hyperlink": ""
+    "Creator": "Luke Noles"
   },
   {
     "id": 12,
     "FirstName": "Jud",
     "LastName": "Davis",
     "NickName": "HeadShot",
+    "Image": "davis_jud.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "MFA",
@@ -320,14 +321,14 @@
     "HashTag": "#baldandbeautiful",
     "Resistances": "Student confidence",
     "Weaknesses": "Parking Lots, Canon Cameras",
-    "Creator": "Izzie",
-    "Hyperlink": ""
+    "Creator": "Izzie"
   },
   {
     "id": 13,
     "FirstName": "David",
     "LastName": "Shannon",
     "NickName": "Stache",
+    "Image": "shannon_david.jpg",
     "Gender": "M",
     "Rank": "President",
     "EducationLevel": "",
@@ -347,14 +348,14 @@
     "HashTag": "#canwegetaselfie",
     "Resistances": "",
     "Weaknesses": "None",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 14,
     "FirstName": "TJ",
     "LastName": "Kirk",
     "NickName": "Uncle TJ",
+    "Image": "kirk_tj.jpg",
     "Gender": "M",
     "Rank": "Vice President",
     "EducationLevel": "",
@@ -374,14 +375,14 @@
     "HashTag": "#todayingano",
     "Resistances": "YikYak",
     "Weaknesses": "Quinoa",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 15,
     "FirstName": "David",
     "LastName": "Tidwell",
     "NickName": "Pokémon Go",
+    "Image": "tidwell_david.jpg",
     "Gender": "",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -401,14 +402,14 @@
     "HashTag": "#youresmarterthanthat",
     "Resistances": "Student Begging",
     "Weaknesses": "Handwriting",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 16,
     "FirstName": "Greg",
     "LastName": "Hollamon",
     "NickName": "MathMan",
+    "Image": "hollamon_greg.jpg",
     "Gender": "M",
     "Rank": "Instructor",
     "EducationLevel": "Master's",
@@ -428,14 +429,14 @@
     "HashTag": "",
     "Resistances": "",
     "Weaknesses": "",
-    "Creator": "",
-    "Hyperlink": ""
+    "Creator": ""
   },
   {
     "id": 17,
     "FirstName": "Corey",
     "LastName": "Markum",
     "NickName": "Gloriosity",
+    "Image": "markum_corey.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -455,41 +456,41 @@
     "HashTag": "#menbelonginthekitchen",
     "Resistances": "Traditional Gender Roles",
     "Weaknesses": "Engineering",
-    "Creator": "Kenan Casey",
-    "Hyperlink": ""
+    "Creator": "Kenan Casey"
   },
   {
     "id": 18,
     "FirstName": "Matt",
-    "LastName": "Soko",
-    "NickName": "",
+    "LastName": "Sokoloski",
+    "NickName": "Soko",
+    "Image": "sokoloski_matthew.jpg",
     "Gender": "",
-    "Rank": "",
-    "EducationLevel": "",
-    "FieldofStudy": "",
-    "Department": "",
-    "HitPoints": "",
-    "Tenure": "",
+    "Rank": "Assistant Professor",
+    "EducationLevel": "Ph.D.",
+    "FieldofStudy": "Philosophy",
+    "Department": "Biblical Studies",
+    "HitPoints": 91,
+    "Tenure": "No",
     "Attack1": "",
-    "Attack1Damage": 0,
+    "Attack1Damage": 68,
     "Attack2": "",
-    "Attack2Damage": 0,
-    "Type": "",
-    "DamageType": "",
+    "Attack2Damage": 81,
+    "Type": "Monk-Bard",
+    "DamageType": "Philosophical",
     "Cost": "",
     "Height": "",
     "Stamina": "",
     "HashTag": "",
     "Resistances": "",
     "Weaknesses": "",
-    "Creator": "",
-    "Hyperlink": ""
+    "Creator": ""
   },
   {
     "id": 19,
     "FirstName": "Timberly",
     "LastName": "Singleton",
     "NickName": "Singleton",
+    "Image": "singleton_timberly.jpg",
     "Gender": "F",
     "Rank": "Professor",
     "EducationLevel": "Master's",
@@ -509,14 +510,14 @@
     "HashTag": "#singleton",
     "Resistances": "IQ 300 Students",
     "Weaknesses": "Messy Notes",
-    "Creator": "Gavin Boler",
-    "Hyperlink": ""
+    "Creator": "Gavin Boler"
   },
   {
     "id": 20,
     "FirstName": "Ryan",
     "LastName": "Fraser",
     "NickName": "Mr. Omega",
+    "Image": "fraser_ryan.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Master's",
@@ -536,14 +537,14 @@
     "HashTag": "#omegachi",
     "Resistances": "Ladders",
     "Weaknesses": "Broken Leg",
-    "Creator": "Gavin Boler",
-    "Hyperlink": ""
+    "Creator": "Gavin Boler"
   },
   {
     "id": 21,
     "FirstName": "Ben",
     "LastName": "Clark",
     "NickName": "Cyborg",
+    "Image": "clark_ben.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Master's",
@@ -563,14 +564,14 @@
     "HashTag": "#cyborg",
     "Resistances": "Lightning",
     "Weaknesses": "Slowness",
-    "Creator": "Gavin Boler",
-    "Hyperlink": ""
+    "Creator": "Gavin Boler"
   },
   {
     "id": 22,
     "FirstName": "Jared",
     "LastName": "Collins",
     "NickName": "JareBear",
+    "Image": "collins_jared.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D",
@@ -590,14 +591,14 @@
     "HashTag": "#PartialCredit",
     "Resistances": "NonMath Majors",
     "Weaknesses": "None",
-    "Creator": "Addison Adcock",
-    "Hyperlink": ""
+    "Creator": "Addison Adcock"
   },
   {
     "id": 23,
     "FirstName": "Greg",
     "LastName": "Maples",
     "NickName": "Graples",
+    "Image": "mapes_greg.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Master's",
@@ -617,14 +618,14 @@
     "HashTag": "#Hacker",
     "Resistances": "Power Outages",
     "Weaknesses": "Quizlet",
-    "Creator": "Addison Adcock",
-    "Hyperlink": ""
+    "Creator": "Addison Adcock"
   },
   {
     "id": 24,
     "FirstName": "Michael",
     "LastName": "Johnson",
     "NickName": "Mikey J",
+    "Image": "johnson_michael.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D",
@@ -644,14 +645,14 @@
     "HashTag": "#Math",
     "Resistances": "Freshmen",
     "Weaknesses": "Broken Printers",
-    "Creator": "Addison Adcock",
-    "Hyperlink": ""
+    "Creator": "Addison Adcock"
   },
   {
     "id": 25,
     "FirstName": "Jud",
     "LastName": "Davis",
     "NickName": "Snap",
+    "Image": "davis_jud.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "MFA",
@@ -671,14 +672,14 @@
     "HashTag": "#Flash",
     "Resistances": "Canon",
     "Weaknesses": "Sunsets",
-    "Creator": "Kaylee Odom",
-    "Hyperlink": ""
+    "Creator": "Kaylee Odom"
   },
   {
     "id": 26,
     "FirstName": "Sarah",
     "LastName": "Pierce",
     "NickName": "Sarah Pinch",
+    "Image": "pierce_sarah.jpg",
     "Gender": "F",
     "Rank": "Professor",
     "EducationLevel": "Ph.D",
@@ -698,14 +699,14 @@
     "HashTag": "#nursinggirl",
     "Resistances": "Dirty Gloves",
     "Weaknesses": "Grey's Anatomy",
-    "Creator": "Kaylee Odom",
-    "Hyperlink": ""
+    "Creator": "Kaylee Odom"
   },
   {
     "id": 27,
     "FirstName": "Abby",
     "LastName": "Stutts",
     "NickName": "Red",
+    "Image": "stutts_abby.jpg",
     "Gender": "F",
     "Rank": "Assistant Coach",
     "EducationLevel": "BEd",
@@ -725,16 +726,16 @@
     "HashTag": "#basketball",
     "Resistances": "Outdoors",
     "Weaknesses": "Long shorts",
-    "Creator": "Kaylee Odom",
-    "Hyperlink": ""
+    "Creator": "Kaylee Odom"
   },
   {
     "id": 28,
     "FirstName": "Jim",
     "LastName": "Gardner",
     "NickName": "Jimmy G.",
+    "Image": "gardner_jim.jpg",
     "Gender": "M",
-    "Rank": "Highest",
+    "Rank": "Professor",
     "EducationLevel": "Ph.D",
     "FieldofStudy": "Law",
     "Department": "Biblical Studies",
@@ -752,14 +753,14 @@
     "HashTag": "#PunctuationPolice",
     "Resistances": "Students' essays",
     "Weaknesses": "The emotional impact of the Bible",
-    "Creator": "Wesley Baker",
-    "Hyperlink": ""
+    "Creator": "Wesley Baker"
   },
   {
     "id": 29,
     "FirstName": "Perry",
     "LastName": "Hardin",
     "NickName": "Profe",
+    "Image": "hardin_perry.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Ph.D",
@@ -779,14 +780,14 @@
     "HashTag": "#Paraguay",
     "Resistances": "Paraguay dictator Stoessner",
     "Weaknesses": "Horrible grammar",
-    "Creator": "Wesley Baker",
-    "Hyperlink": ""
+    "Creator": "Wesley Baker"
   },
   {
     "id": 30,
     "FirstName": "Lisa",
     "LastName": "Raine",
     "NickName": "EasyA",
+    "Image": "raine_lisa.jpg",
     "Gender": "F",
     "Rank": "Instructor",
     "EducationLevel": "Master's",
@@ -806,14 +807,14 @@
     "HashTag": "#quizlet",
     "Resistances": "zyBook readings",
     "Weaknesses": "Bad Quizlet grades",
-    "Creator": "Mark Miles",
-    "Hyperlink": ""
+    "Creator": "Mark Miles"
   },
   {
     "id": 31,
     "FirstName": "Jud",
     "LastName": "Davis",
     "NickName": "Jameson",
+    "Image": "davis_jud.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "MFA",
@@ -833,14 +834,14 @@
     "HashTag": "#getbetter",
     "Resistances": "Out of focus photos",
     "Weaknesses": "Dutch angles",
-    "Creator": "Mark Miles",
-    "Hyperlink": ""
+    "Creator": "Mark Miles"
   },
   {
     "id": 32,
     "FirstName": "Josh",
     "LastName": "Ketchum",
     "NickName": "KetchumAll",
+    "Image": "ketchum_josh.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D",
@@ -860,14 +861,14 @@
     "HashTag": "#legend",
     "Resistances": "Plagiarized papers",
     "Weaknesses": "Memory verse scores",
-    "Creator": "Mark Miles",
-    "Hyperlink": ""
+    "Creator": "Mark Miles"
   },
   {
     "id": 33,
     "FirstName": "Lauren",
     "LastName": "Warf",
     "NickName": "Lore'n Dwarf",
+    "Image": "warf_lauren.jpg",
     "Gender": "F",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D",
@@ -887,14 +888,14 @@
     "HashTag": "#GetLit",
     "Resistances": "Research Papers",
     "Weaknesses": "Lack of Detail",
-    "Creator": "Avery Harris",
-    "Hyperlink": ""
+    "Creator": "Avery Harris"
   },
   {
     "id": 34,
     "FirstName": "John",
     "LastName": "McLaughlin",
     "NickName": "Sir Mclaughsalot",
+    "Image": "mclaughlin_john.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D",
@@ -914,14 +915,14 @@
     "HashTag": "",
     "Resistances": "Quizzes",
     "Weaknesses": "Lack of Detail",
-    "Creator": "Avery Harris",
-    "Hyperlink": ""
+    "Creator": "Avery Harris"
   },
   {
     "id": 35,
     "FirstName": "Amanda",
     "LastName": "Cunningham",
     "NickName": "Cunning Fox",
+    "Image": "cunningham_amanda.jpg",
     "Gender": "F",
     "Rank": "Head Coach",
     "EducationLevel": "Master's",
@@ -941,14 +942,14 @@
     "HashTag": "#VolleyballLife",
     "Resistances": "Bad attitudes",
     "Weaknesses": "Outdoors",
-    "Creator": "Avery Harris",
-    "Hyperlink": ""
+    "Creator": "Avery Harris"
   },
   {
     "id": 36,
-    "FirstName": "Kaitlyn",
+    "FirstName": "Katie",
     "LastName": "Deck",
     "NickName": "KD",
+    "Image": "deck_kaitlyn.jpg",
     "Gender": "F",
     "Rank": "Professor",
     "EducationLevel": "Master's",
@@ -968,14 +969,14 @@
     "HashTag": "#artsmart",
     "Resistances": "Students not loving Figma",
     "Weaknesses": "Gluten",
-    "Creator": "Allison Walker",
-    "Hyperlink": ""
+    "Creator": "Allison Walker"
   },
   {
     "id": 37,
     "FirstName": "Amy",
     "LastName": "Sewell",
     "NickName": "Sewel Dawg",
+    "Image": "sewell_amy.jpg",
     "Gender": "F",
     "Rank": "Professor",
     "EducationLevel": "Master's",
@@ -983,9 +984,9 @@
     "Department": "Buisness",
     "HitPoints": 99.9,
     "Tenure": "No",
-    "Attack1": "The Life ending Handshake",
+    "Attack1": "The Life-Ending Handshake",
     "Attack1Damage": 74,
-    "Attack2": "The growth Mindset",
+    "Attack2": "The Growth Mindset",
     "Attack2Damage": 89,
     "Type": "Sorceress",
     "DamageType": "Physological",
@@ -995,14 +996,14 @@
     "HashTag": "#GrowthMoneyProwess",
     "Resistances": "Fixed Mindset",
     "Weaknesses": "Nothing",
-    "Creator": "Allison Walker",
-    "Hyperlink": ""
+    "Creator": "Allison Walker"
   },
   {
     "id": 38,
     "FirstName": "Kayla",
     "LastName": "Roberson",
     "NickName": "KRob",
+    "Image": "roberrson_kayla.jpg",
     "Gender": "F",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1022,14 +1023,14 @@
     "HashTag": "#Buhi",
     "Resistances": "Students asking questions",
     "Weaknesses": "Clarification",
-    "Creator": "Allison Walker",
-    "Hyperlink": ""
+    "Creator": "Allison Walker"
   },
   {
     "id": 39,
     "FirstName": "Matt",
     "LastName": "Cook",
     "NickName": "The Cookster",
+    "Image": "cook_matt.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D",
@@ -1049,14 +1050,14 @@
     "HashTag": "#HolySpirit",
     "Resistances": "Contridiction",
     "Weaknesses": "Too Humble",
-    "Creator": "Allison Walker",
-    "Hyperlink": ""
+    "Creator": "Allison Walker"
   },
   {
     "id": 40,
     "FirstName": "Brian",
     "LastName": "Butterfield",
     "NickName": "The Turtle Guy",
+    "Image": "butterfield_brian.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1076,14 +1077,14 @@
     "HashTag": "#nevershowemotion",
     "Resistances": "Bloodshed of any type",
     "Weaknesses": "Any unidentified body of water",
-    "Creator": "Abbie Vance",
-    "Hyperlink": ""
+    "Creator": "Abbie Vance"
   },
   {
     "id": 41,
     "FirstName": "Donnie",
     "LastName": "DeBord",
     "NickName": "Donald?",
+    "Image": "debord_donnie.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -1103,14 +1104,14 @@
     "HashTag": "#mickeymousin'",
     "Resistances": "Paganism",
     "Weaknesses": "College football",
-    "Creator": "Abbie Vance",
-    "Hyperlink": ""
+    "Creator": "Abbie Vance"
   },
   {
     "id": 42,
     "FirstName": "Kevin",
     "LastName": "Moore",
     "NickName": "Kiwi",
+    "Image": "moore_kevin.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1130,14 +1131,14 @@
     "HashTag": "#missionsgroupiswild",
     "Resistances": "The wiles of the devil",
     "Weaknesses": "Technology",
-    "Creator": "Abbie Vance",
-    "Hyperlink": ""
+    "Creator": "Abbie Vance"
   },
   {
     "id": 43,
     "FirstName": "Matt",
     "LastName": "Cook",
     "NickName": "Steelers Fan",
+    "Image": "cook_matt.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1157,14 +1158,14 @@
     "HashTag": "#Jesusgang",
     "Resistances": "All other NFL fans",
     "Weaknesses": "Technology",
-    "Creator": "Tucker Brown",
-    "Hyperlink": ""
+    "Creator": "Tucker Brown"
   },
   {
     "id": 44,
     "FirstName": "Justin",
     "LastName": "Rodgers",
     "NickName": "The Bible Guy",
+    "Image": "rodgers_justin.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1184,14 +1185,14 @@
     "HashTag": "#Theologyrules",
     "Resistances": "The Devil temptations",
     "Weaknesses": "Cake",
-    "Creator": "Tucker Brown",
-    "Hyperlink": ""
+    "Creator": "Tucker Brown"
   },
   {
     "id": 45,
     "FirstName": "Micheal",
     "LastName": "Prentice",
     "NickName": "That Old Xi Chi Guy",
+    "Image": "prentice_micheal.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1211,14 +1212,14 @@
     "HashTag": "#SHUTUP",
     "Resistances": "The feeling of pain",
     "Weaknesses": "Sleep",
-    "Creator": "Tucker Brown",
-    "Hyperlink": ""
+    "Creator": "Tucker Brown"
   },
   {
     "id": 46,
     "FirstName": "Gary",
     "LastName": "McKnight",
     "NickName": "GareBear",
+    "Image": "mknight_gary.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ed.d",
@@ -1238,14 +1239,14 @@
     "HashTag": "#onemoretime",
     "Resistances": "Students not paying attention",
     "Weaknesses": "Forgets the Schedule",
-    "Creator": "Austin Applegate",
-    "Hyperlink": ""
+    "Creator": "Austin Applegate"
   },
   {
     "id": 47,
     "FirstName": "Matt",
     "LastName": "Barker",
     "NickName": "MattDog",
+    "Image": "barker_matt.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -1265,14 +1266,14 @@
     "HashTag": "#whosnext",
     "Resistances": "time limits",
     "Weaknesses": "too patient",
-    "Creator": "Austin Applegate",
-    "Hyperlink": ""
+    "Creator": "Austin Applegate"
   },
   {
     "id": 48,
     "FirstName": "Chris",
     "LastName": "Creecy",
     "NickName": "Psych Guy",
+    "Image": "creecy_chris.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -1292,16 +1293,16 @@
     "HashTag": "#samespeakertone",
     "Resistances": "Devil's Advocate",
     "Weaknesses": "Too Busy",
-    "Creator": "Austin Applegate",
-    "Hyperlink": ""
+    "Creator": "Austin Applegate"
   },
   {
     "id": 49,
     "FirstName": "Robbie",
     "LastName": "Nichols",
     "NickName": "Robbie",
+    "Image": "nichols_robbie.jpg",
     "Gender": "M",
-    "Rank": "Professor",
+    "Rank": "Instructor",
     "EducationLevel": "Masters",
     "FieldofStudy": "Computer Science",
     "Department": "Math, Engineering and Computer Science",
@@ -1316,17 +1317,17 @@
     "Cost": 3,
     "Height": "5'8",
     "Stamina": "Medium",
-    "HashTag": "#pleaseletmygradelive",
+    "HashTag": "#agilelife",
     "Resistances": "Cheating",
-    "Weaknesses": "Teaching",
-    "Creator": "Jaydon Dulgar",
-    "Hyperlink": ""
+    "Weaknesses": "Agile fouls",
+    "Creator": "Jaydon Dulgar"
   },
   {
     "id": 50,
     "FirstName": "C.J",
     "LastName": "Vires",
     "NickName": "V-Man",
+    "Image": "vires_cj.jpg",
     "Gender": "M",
     "Rank": "Vice President",
     "EducationLevel": "Ph.D.",
@@ -1345,18 +1346,18 @@
     "Stamina": "Low",
     "HashTag": "#feelthevire",
     "Resistances": "Low work ethic",
-    "Weaknesses": "Running",
-    "Creator": "Jaydon Dulgar",
-    "Hyperlink": ""
+    "Weaknesses": "Baseball",
+    "Creator": "Jaydon Dulgar"
   },
   {
     "id": 51,
     "FirstName": "Stewart",
     "LastName": "Brackin",
     "NickName": "Ticket-man",
+    "Image": "brackin_stewart.jpg",
     "Gender": "M",
     "Rank": "Officer",
-    "EducationLevel": "College?",
+    "EducationLevel": "Bachlors",
     "FieldofStudy": "N/A",
     "Department": "Security",
     "HitPoints": 90,
@@ -1373,17 +1374,17 @@
     "HashTag": "#youcantparkthere",
     "Resistances": "Lawlessness",
     "Weaknesses": "Human Emotion",
-    "Creator": "Jaydon Dulgar",
-    "Hyperlink": ""
+    "Creator": "Jaydon Dulgar"
   },
   {
     "id": 52,
     "FirstName": "Garrett",
     "LastName": "Clouse",
     "NickName": "Garebear",
+    "Image": "clouse_garrett.jpg",
     "Gender": "M",
     "Rank": "Athletic Trainer",
-    "EducationLevel": "Ph.D.",
+    "EducationLevel": "Masters",
     "FieldofStudy": "Kinesiology",
     "Department": "Athletics",
     "HitPoints": 85,
@@ -1400,14 +1401,14 @@
     "HashTag": "#letswrapitup",
     "Resistances": "Injuries",
     "Weaknesses": "Sore Glutes",
-    "Creator": "Christian Stackpole",
-    "Hyperlink": ""
+    "Creator": "Christian Stackpole"
   },
   {
     "id": 53,
     "FirstName": "Joey",
     "LastName": "Barkley",
     "NickName": "BanJoey",
+    "Image": "barkley_joey.jpg",
     "Gender": "M",
     "Rank": "Instructor",
     "EducationLevel": "Ph.D.",
@@ -1427,14 +1428,14 @@
     "HashTag": "#memesfordays",
     "Resistances": "Feedback",
     "Weaknesses": "Waterfall Development",
-    "Creator": "Christian Stackpole",
-    "Hyperlink": ""
+    "Creator": "Christian Stackpole"
   },
   {
     "id": 54,
     "FirstName": "Maurice",
     "LastName": "Williams",
     "NickName": "Liftosaur",
+    "Image": "williams_maurice.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Ph.D.",
@@ -1454,14 +1455,14 @@
     "HashTag": "#thetoeshoes",
     "Resistances": "100's",
     "Weaknesses": "Bad grading",
-    "Creator": "Christian Stackpole",
-    "Hyperlink": ""
+    "Creator": "Christian Stackpole"
   },
   {
     "id": 55,
     "FirstName": "Joe",
     "LastName": "Deweese",
     "NickName": "Dr. Joe",
+    "Image": "deweese_joe.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1481,14 +1482,14 @@
     "HashTag": "#topoisomerase",
     "Resistances": "Evolution",
     "Weaknesses": "Boring ties",
-    "Creator": "Bryce Greene",
-    "Hyperlink": ""
+    "Creator": "Bryce Greene"
   },
   {
     "id": 56,
     "FirstName": "Greg",
     "LastName": "Maples",
     "NickName": "Maple Leaf",
+    "Image": "maples_greg.jpg",
     "Gender": "M",
     "Rank": "Assistant Professor",
     "EducationLevel": "Masters",
@@ -1508,14 +1509,14 @@
     "HashTag": "#maplesyrup",
     "Resistances": "Psychological Damage",
     "Weaknesses": "Physical Damage",
-    "Creator": "Bryce Greene",
-    "Hyperlink": ""
+    "Creator": "Bryce Greene"
   },
   {
     "id": 57,
     "FirstName": "Alan",
     "LastName": "Kinningham",
     "NickName": "Doc",
+    "Image": "kinningham_alan.jpg",
     "Gender": "M",
     "Rank": "Associate Professor",
     "EducationLevel": "Masters",
@@ -1535,14 +1536,14 @@
     "HashTag": "#whatsupdoc",
     "Resistances": "Emotional Damage",
     "Weaknesses": "Singing",
-    "Creator": "Bryce Greene",
-    "Hyperlink": ""
+    "Creator": "Bryce Greene"
   },
   {
     "id": 58,
     "FirstName": "Matt",
     "LastName": "Vega",
     "NickName": "Gyosu",
+    "Image": "vega_matt.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "JD",
@@ -1562,14 +1563,14 @@
     "HashTag": "#heartandseoul",
     "Resistances": "physical damage",
     "Weaknesses": "Too busy",
-    "Creator": "Kaitlyn Thompson",
-    "Hyperlink": ""
+    "Creator": "Kaitlyn Thompson"
   },
   {
     "id": 59,
     "FirstName": "Lee",
     "LastName": "Hibbit",
     "NickName": "The Salesman",
+    "Image": "hibbit_lee.jpg",
     "Gender": "M",
     "Rank": "Professor",
     "EducationLevel": "Ph.D.",
@@ -1589,34 +1590,6 @@
     "HashTag": "#pkperfection",
     "Resistances": "Psychic Damage",
     "Weaknesses": "Physical Damage",
-    "Creator": "Kaitlyn Thompson",
-    "Hyperlink": ""
-  },
-  {
-    "id": 60,
-    "FirstName": "Aaron",
-    "LastName": "Hancock",
-    "NickName": "Aaronator",
-    "Gender": "M",
-    "Rank": "Co",
-    "EducationLevel": "",
-    "FieldofStudy": "",
-    "Department": "Admissions",
-    "HitPoints": 1000,
-    "Tenure": "No",
-    "Attack1": "",
-    "Attack1Damage": "",
-    "Attack2": "",
-    "Attack2Damage": "",
-    "Type": "Rogue",
-    "DamageType": "",
-    "Cost": 5,
-    "Height": "5'11",
-    "Stamina": "High",
-    "HashTag": "#storyTime",
-    "Resistances": "",
-    "Weaknesses": "Admissions",
-    "Creator": "",
-    "Hyperlink": ""
+    "Creator": "Kaitlyn Thompson"
   }
 ]
