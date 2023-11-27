@@ -257,7 +257,7 @@
     "Attack1Description": "This attack induces a deep sleep upon the target, rendering them temporarily unconscious and defenseless.",
     "Attack2": "); DROP TABLE Attacks;--",
     "Attack2Damage": "76",
-    "Attack2Description": "SQL injection leaving atttacks meaningless and students in despair.",
+    "Attack2Description": "SQL injection leaving attacks meaningless and students in despair.",
     "Type": "Sorceress",
     "DamageType": "Pythonic",
     "Cost": "9",
